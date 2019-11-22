@@ -1,4 +1,4 @@
-# JavaScript One-Liners
+# Efficacious JavaScript One-Liners
 
 ##### Generate a random string
 ```javascript
