@@ -1,1 +1,1 @@
-# one-liners
+# JavaScript One-Liners
